@@ -1,0 +1,12 @@
+{
+  "name": "filter",
+  "repo": "gorillatron/filter",
+  "description": "Filtering arrays or objects.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
